@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "751418382283",
+    "firebase_url": "https://timur-e7590.firebaseio.com",
+    "project_id": "timur-e7590",
+    "storage_bucket": "timur-e7590.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751418382283:android:57e98b565f231d7e4ec84e",
+        "android_client_info": {
+          "package_name": "com.example.firebasee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751418382283-3d6f7gmqj7n7fkrv2r75nuu3s99gmal5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsRT7QFLoyPm0C5JWttanFBUpX6jute64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751418382283-3d6f7gmqj7n7fkrv2r75nuu3s99gmal5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
